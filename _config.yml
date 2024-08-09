@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mei Shuhao"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Xiamen"
   employer         : "Xiamen University"
